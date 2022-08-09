@@ -1,15 +1,14 @@
 # 지도 기반 챗봇 SNS (Chatbot SNS with Map)
 📓 Github : [https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map](https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map)</br>
 📓 보고서 : [https://drive.google.com/file/d/1gYQVHzitIrBrqCygRp3UqynDZTuNkLuZ/view?usp=sharing](https://drive.google.com/file/d/1gYQVHzitIrBrqCygRp3UqynDZTuNkLuZ/view?usp=sharing)</br>
+
 🎥 실행 영상(유튜브) : [https://www.youtube.com](https://www.youtube.com) </br>
 ## Team
-😀 태용 : [https://github.com/GauelF](https://github.com/GauelF)
-</br>
-😀 원진 : [https://github.com/jangwon3828](https://github.com/jangwon3828)
-</br>
-😀 우현 : [https://github.com/woohyeonjoe](https://github.com/woohyeonjoe)
-</br>
-😀 준혁 : [https://github.com/oddnine](https://github.com/oddnine)
+😀 태용 : [https://github.com/GauelF](https://github.com/GauelF)</br>
+😀 원진 : [https://github.com/jangwon3828](https://github.com/jangwon3828)</br>
+😀 우현 : [https://github.com/woohyeonjoe](https://github.com/woohyeonjoe)</br>
+😀 준혁 : [https://github.com/oddnine](https://github.com/oddnine)</br>
+😀 윤찬 : [https://github.com/NYC3644](https://github.com/NYC3644)</br>
 
 ## Tech Stack
 
