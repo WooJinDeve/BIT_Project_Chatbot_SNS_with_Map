@@ -1,0 +1,12 @@
+CREATE TABLE `zelly`.`place` (
+  `idPlace` INT NOT NULL,
+  `placeName` VARCHAR(45) NULL,
+  `adminArea` VARCHAR(45) NULL COMMENT 'ex) 경기도\n대전',
+  `locality` VARCHAR(45) NULL COMMENT '~~시\n(성남시)',
+  `subLocality` VARCHAR(45) NULL COMMENT '동구\n분당구',
+  `thoroughfare` VARCHAR(45) NULL COMMENT '자양동\n삼평동',
+  `age` INT NULL,
+  `hashTags` VARCHAR(45) NULL,
+  PRIMARY KEY (`idPlace`),
+  UNIQUE INDEX `idplace_UNIQUE` (`idPlace` ASC) VISIBLE)
+COMMENT = '장소';
