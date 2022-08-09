@@ -50,5 +50,6 @@
 📄 코사인 유사도 챗봇 : [https://www.youtube.com/watch?v=VVArHrsxrYU](https://www.youtube.com/watch?v=VVArHrsxrYU)</br>
 📄 자바 SPRING 서버 구축 : [https://www.inflearn.com/roadmaps/373](https://www.inflearn.com/roadmaps/373)</br>
 📄 MySql (JPA 연동) : [https://dev-coco.tistory.com/85](https://dev-coco.tistory.com/85)</br>
-📄 파이썬 Flask : [https://scribblinganything.tistory.com/119](https://scribblinganything.tistory.com/119)
-
+📄 파이썬 Flask : [https://scribblinganything.tistory.com/119](https://scribblinganything.tistory.com/119)</br>
+📄 AWS EC2 배포 : [https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/concepts.html](https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/concepts.html)</br>
+📄 AWS Elastic Beanstalk 파이썬 Flask 배포 : [https://docs.aws.amazon.com/ko_kr/elasticbeanstalk/latest/dg/create-deploy-python-flask.html](https://docs.aws.amazon.com/ko_kr/elasticbeanstalk/latest/dg/create-deploy-python-flask.html)
