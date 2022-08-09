@@ -1,7 +1,13 @@
 <div align="center">
 
 ## 우송대학교 비트 프로젝트
+[태용's Github](https://github.com/GauelF)
 
+[원진's Github](https://github.com/jangwon3828)
+
+[우현's Github](https://github.com/woohyeonjoe)
+
+[준혁's Github](https://github.com/gugakdaisuki)
 
 ## ⚡사용 기술
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
