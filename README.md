@@ -9,7 +9,7 @@
 </br>
 😀 우현 : [https://github.com/woohyeonjoe](https://github.com/woohyeonjoe)
 </br>
-😀 준혁 : [https://github.com/gugakdaisuki](https://github.com/gugakdaisuki)
+😀 준혁 : [https://github.com/oddnine](https://github.com/oddnine)
 
 ## Tech Stack
 
