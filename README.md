@@ -42,14 +42,13 @@
 
 ## Document
 
-📄 안드로이드 구글맵 SDK 추가 : [https://developers.google.com/maps/documentation/android-sdk/start?hl=ko](https://developers.google.com/maps/documentation/android-sdk/start?hl=ko)
-</br>
-📄 안드로이드 프로젝트 Firebase 추가 : [https://firebase.google.com/docs/android/setup?hl=ko](https://firebase.google.com/docs/android/setup?hl=ko)
-</br>
-📄 파이어 베이스 데이터 관리 : [https://firebase.google.com/docs/database/admin/save-data?hl=ko](https://firebase.google.com/docs/database/admin/save-data?hl=ko)
-</br>
-📄 파이어베이스 스토리지 파일 업로드 : [https://firebase.google.com/docs/storage/android/upload-files?hl=ko](https://firebase.google.com/docs/storage/android/upload-files?hl=ko)
-</br>
-📄 자바 SPRING 강의 : [https://www.inflearn.com/roadmaps/373](https://www.inflearn.com/roadmaps/373)
-
+📄 안드로이드 구글맵 SDK 추가 : [https://developers.google.com/maps/documentation/android-sdk/start?hl=ko](https://developers.google.com/maps/documentation/android-sdk/start?hl=ko)</br>
+📄 안드로이드 프로젝트 Firebase 추가 : [https://firebase.google.com/docs/android/setup?hl=ko](https://firebase.google.com/docs/android/setup?hl=ko)</br>
+📄 파이어 베이스 데이터 관리 : [https://firebase.google.com/docs/database/admin/save-data?hl=ko](https://firebase.google.com/docs/database/admin/save-data?hl=ko)</br>
+📄 파이어베이스 스토리지 파일 업로드 : [https://firebase.google.com/docs/storage/android/upload-files?hl=ko](https://firebase.google.com/docs/storage/android/upload-files?hl=ko)</br>
+📄 파이어베이스 응용 참고 영상 : [https://www.youtube.com/watch?v=ENK4ONrRm8s&list=PLam6bY5NszYOhXkY7jOS4EQAKcQwkXrp4](https://www.youtube.com/watch?v=ENK4ONrRm8s&list=PLam6bY5NszYOhXkY7jOS4EQAKcQwkXrp4)</br>
+📄 코사인 유사도 챗봇 : [https://www.youtube.com/watch?v=VVArHrsxrYU](https://www.youtube.com/watch?v=VVArHrsxrYU)</br>
+📄 자바 SPRING 서버 구축 : [https://www.inflearn.com/roadmaps/373](https://www.inflearn.com/roadmaps/373)</br>
+📄 MySql (JPA 연동) : [https://dev-coco.tistory.com/85](https://dev-coco.tistory.com/85)</br>
+📄 파이썬 Flask : [https://scribblinganything.tistory.com/119](https://scribblinganything.tistory.com/119)
 
