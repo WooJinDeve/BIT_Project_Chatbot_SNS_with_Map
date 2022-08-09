@@ -1,18 +1,18 @@
-## Chatbot SNS with Map
+# 지도 기반 챗봇 SNS (Chatbot SNS with Map)
 📓 Github : [https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map](https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map)
 </br>
 📓 보고서 : 
 
-## 프로젝트 맴버
-태용 : [https://github.com/GauelF](https://github.com/GauelF)
+## Team
+😀 태용 : [https://github.com/GauelF](https://github.com/GauelF)
 </br>
-원진 : [https://github.com/jangwon3828](https://github.com/jangwon3828)
+😀 원진 : [https://github.com/jangwon3828](https://github.com/jangwon3828)
 </br>
-우현 : [https://github.com/woohyeonjoe](https://github.com/woohyeonjoe)
+😀 우현 : [https://github.com/woohyeonjoe](https://github.com/woohyeonjoe)
 </br>
-준혁 : [https://github.com/gugakdaisuki](https://github.com/gugakdaisuki)
+😀 준혁 : [https://github.com/gugakdaisuki](https://github.com/gugakdaisuki)
 
-## ⚡ 사용 기술
+## Tech Stack
 
 <div align="center">
 
@@ -34,22 +34,22 @@
 
 </div>
 
-## 📱 어플리케이션 구성
+## Application
 ![슬라이드1](https://user-images.githubusercontent.com/106054507/183538230-0c58dec3-b52d-48f9-939c-70cce2423d13.JPG)
 ![슬라이드5](https://user-images.githubusercontent.com/106054507/183538274-cacbbc17-42c9-4ad2-ad68-e689c17d1c65.JPG)
 ![슬라이드6](https://user-images.githubusercontent.com/106054507/183538278-3349a132-7012-4bd3-aad8-c475a26d2c87.JPG)
 ![슬라이드7](https://user-images.githubusercontent.com/106054507/183538282-fc42bcfa-db54-4e19-ad62-dfa3772e0a0a.JPG)
 
-## 📄 참고문서
+## Document
 
-[안드로이드 구글맵 SDK 추가](https://developers.google.com/maps/documentation/android-sdk/start?hl=ko)
-
-[안드로이드 프로젝트 Firebase 추가](https://firebase.google.com/docs/android/setup?hl=ko)
-
-[파이어 베이스 데이터 관리](https://firebase.google.com/docs/database/admin/save-data?hl=ko)
-
-[파이어베이스 스토리지 파일 업로드](https://firebase.google.com/docs/storage/android/upload-files?hl=ko)
-
-[자바 SPRING 강의](https://www.inflearn.com/roadmaps/373)
+📄 안드로이드 구글맵 SDK 추가 : [https://developers.google.com/maps/documentation/android-sdk/start?hl=ko](https://developers.google.com/maps/documentation/android-sdk/start?hl=ko)
+</br>
+📄 안드로이드 프로젝트 Firebase 추가 : [https://firebase.google.com/docs/android/setup?hl=ko](https://firebase.google.com/docs/android/setup?hl=ko)
+</br>
+📄 파이어 베이스 데이터 관리 : [https://firebase.google.com/docs/database/admin/save-data?hl=ko](https://firebase.google.com/docs/database/admin/save-data?hl=ko)
+</br>
+📄 파이어베이스 스토리지 파일 업로드 : [https://firebase.google.com/docs/storage/android/upload-files?hl=ko](https://firebase.google.com/docs/storage/android/upload-files?hl=ko)
+</br>
+📄 자바 SPRING 강의 : [https://www.inflearn.com/roadmaps/373](https://www.inflearn.com/roadmaps/373)
 
 
