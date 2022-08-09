@@ -1,6 +1,6 @@
 # 지도 기반 챗봇 SNS (Chatbot SNS with Map)
 📓 Github : [https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map](https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map)</br>
-📓 보고서 : [https://drive.google.com/file/d/1gYQVHzitIrBrqCygRp3UqynDZTuNkLuZ/view?usp=sharing](https://drive.google.com/file/d/1gYQVHzitIrBrqCygRp3UqynDZTuNkLuZ/view?usp=sharing)</br>
+📓 보고서 : [https://drive.google.com/file/d/1ebO4XvwtCezqk4hOPdP2PvvaQRt_Od6p/view?usp=sharing](https://drive.google.com/file/d/1ebO4XvwtCezqk4hOPdP2PvvaQRt_Od6p/view?usp=sharing)</br>
 
 🎥 실행 영상(유튜브) : [https://www.youtube.com](https://www.youtube.com) </br>
 ## Team
