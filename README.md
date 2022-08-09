@@ -1,15 +1,21 @@
+## Chatbot SNS with Map
+📓 Github : [https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map](https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map)
+</br>
+📓 보고서 : 
+
+## 프로젝트 맴버
+태용 : [https://github.com/GauelF](https://github.com/GauelF)
+</br>
+원진 : [https://github.com/jangwon3828](https://github.com/jangwon3828)
+</br>
+우현 : [https://github.com/woohyeonjoe](https://github.com/woohyeonjoe)
+</br>
+준혁 : [https://github.com/gugakdaisuki](https://github.com/gugakdaisuki)
+
+## ⚡ 사용 기술
+
 <div align="center">
 
-## 우송대학교 비트 프로젝트
-[태용's Github](https://github.com/GauelF)
-
-[원진's Github](https://github.com/jangwon3828)
-
-[우현's Github](https://github.com/woohyeonjoe)
-
-[준혁's Github](https://github.com/gugakdaisuki)
-
-## ⚡사용 기술
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
@@ -25,6 +31,8 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-462679?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
   <img src="https://img.shields.io/badge/PyCharm-75ff00?style=for-the-badge&logo=PyCharm&logoColor=white">
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+
+</div>
 
 ## 📱 어플리케이션 구성
 ![슬라이드1](https://user-images.githubusercontent.com/106054507/183538230-0c58dec3-b52d-48f9-939c-70cce2423d13.JPG)
@@ -44,5 +52,4 @@
 
 [자바 SPRING 강의](https://www.inflearn.com/roadmaps/373)
 
-</div>
 
