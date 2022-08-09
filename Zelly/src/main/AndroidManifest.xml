@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.test.chatapp" >
+    <!-- 필요한 권한 생성 -->
+    <permission
+        android:name="com.test.chatapp.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature" /> <!-- 권한 부여 설정 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="젤리"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ChatApp"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31" >
+        <activity
+            android:name=".activities.PopupActivity"
+            android:theme="@android:style/Theme.Dialog"
+            android:exported="false" />
+        <activity
+            android:name=".activities.SplashActivity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustResize" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.RecommandPlaceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.FollowActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.CalendarUserInviteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.CalendarAddActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.CalendarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.DetailPostActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.DetailImage"
+            android:exported="false" />
+
+        <uses-library android:name="com.google.android.maps" />
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" /> <!-- 구글맵api key값 -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="구글맵 Api Key" />
+        <meta-data
+            android:name="com.google.android.gms.vision"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name=".activities.ProfileChangeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.ReceivePostActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.PostingActivity"
+            android:exported="false"
+            android:hardwareAccelerated="true" />
+        <activity
+            android:name=".activities.GoogleMapActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.ChatActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".activities.UserActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.SignUpActivity"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".activities.SignInActivity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustResize" />
+        <activity android:name=".activities.MainActivity" />
+
+        <service
+            android:name=".firebase.MessagingService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>
