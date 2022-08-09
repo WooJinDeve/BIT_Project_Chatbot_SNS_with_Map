@@ -46,7 +46,7 @@
 📄 안드로이드 프로젝트 Firebase 추가 : [https://firebase.google.com/docs/android/setup?hl=ko](https://firebase.google.com/docs/android/setup?hl=ko)</br>
 📄 파이어 베이스 데이터 관리 : [https://firebase.google.com/docs/database/admin/save-data?hl=ko](https://firebase.google.com/docs/database/admin/save-data?hl=ko)</br>
 📄 파이어베이스 스토리지 파일 업로드 : [https://firebase.google.com/docs/storage/android/upload-files?hl=ko](https://firebase.google.com/docs/storage/android/upload-files?hl=ko)</br>
-📄 파이어베이스 응용 참고 영상 : [https://www.youtube.com/watch?v=ENK4ONrRm8s&list=PLam6bY5NszYOhXkY7jOS4EQAKcQwkXrp4](https://www.youtube.com/watch?v=ENK4ONrRm8s&list=PLam6bY5NszYOhXkY7jOS4EQAKcQwkXrp4)</br>
+📄 파이어베이스 응용 참고 영상 : [https://www.youtube.com/watch?v=ENK4ONrRm8s](https://www.youtube.com/watch?v=ENK4ONrRm8s&list=PLam6bY5NszYOhXkY7jOS4EQAKcQwkXrp4)</br>
 📄 코사인 유사도 챗봇 : [https://www.youtube.com/watch?v=VVArHrsxrYU](https://www.youtube.com/watch?v=VVArHrsxrYU)</br>
 📄 자바 SPRING 서버 구축 : [https://www.inflearn.com/roadmaps/373](https://www.inflearn.com/roadmaps/373)</br>
 📄 MySql (JPA 연동) : [https://dev-coco.tistory.com/85](https://dev-coco.tistory.com/85)</br>
