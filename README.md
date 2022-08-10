@@ -4,7 +4,7 @@
 📓 Github : [https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map](https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map)</br>
 📓 보고서 : [https://drive.google.com/file/d/1ebO4XvwtCezqk4hOPdP2PvvaQRt_Od6p/view?usp=sharing](https://drive.google.com/file/d/1ebO4XvwtCezqk4hOPdP2PvvaQRt_Od6p/view?usp=sharing)</br>
 
-🎥 실행 영상(유튜브) : [https://www.youtube.com](https://www.youtube.com) </br>
+🎥 실행 영상(유튜브) : [https://youtu.be/_4lyLtQqSW4](https://youtu.be/_4lyLtQqSW4) </br>
 ## Team
 😀 태용 : [https://github.com/GauelF](https://github.com/GauelF)</br>
 😀 원진 : [https://github.com/jangwon3828](https://github.com/jangwon3828)</br>
