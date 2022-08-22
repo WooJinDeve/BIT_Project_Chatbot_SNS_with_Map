@@ -1,5 +1,5 @@
 # 지도 기반 챗봇 SNS (Chatbot SNS with Map)
-📅 프로젝트 기간 : 2022-05-09 ~ 2022-08-09 (3개월)
+📅 프로젝트 기간 : 2022-05-09 ~ 2022-08-09 (3개월) 33
 
 📓 Github : [https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map](https://github.com/WooJinDeve/BIT_Project--Chatbot_SNS_with_Map)</br>
 📓 보고서 : [https://drive.google.com/file/d/1ebO4XvwtCezqk4hOPdP2PvvaQRt_Od6p/view?usp=sharing](https://drive.google.com/file/d/1ebO4XvwtCezqk4hOPdP2PvvaQRt_Od6p/view?usp=sharing)</br>
